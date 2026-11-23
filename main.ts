@@ -1,3 +1,4 @@
+// One sentence pitch: describe the idea, let an agent build it, split the bounty.
 import { mkdir, writeFile } from "node:fs/promises";
 
 const sentence =
